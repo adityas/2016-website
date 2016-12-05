@@ -1,0 +1,21 @@
+Projects
+<!--<h2>Projects</h2>
+VR Data viz
+Chair pose using conv-nets
+BlindMice
+Photo Browser
+India Digital Heritage
+Online Travelogues
+TerraMercuria
+MetaCode
+-->
+
+Design
+
+Header Background random
+
+Header Background crossfade
+
+Profile photo 3D, crossfade
+
+Mountain photos/instagram feed
