@@ -79,7 +79,7 @@ a:focus {
 
 .navbar-custom .navbar-brand .navbar-toggle {
     padding: 4px 6px;
-    font-size: 16px;
+    font-size: 14px;
     color: #fff;
 }
 
@@ -120,6 +120,12 @@ a:focus {
 
 .navbar-custom .nav li.active a:hover {
     color: #fff;
+}
+
+@media (max-width: 992px) {
+  .nav li a {
+    padding: 15px 10px;
+  }
 }
 
 @media(min-width:768px) {
