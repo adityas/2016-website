@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /files/cse/
+Disallow: /staging/
+Disallow: /old_site/
