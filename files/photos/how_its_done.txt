@@ -1,0 +1,16 @@
+Image Mosaics: How it's done
+Aditya Sankar
+---
+
+You'll need:
+
+1) A ton of images (in the order of a thousand for a good mosaic)
+2) A good base image (with enough variation in color and contrast)
+3) A mosaic creating application like MacOSaiX (Mac) or Andrea Mosaic (Windows). More on this here: http://www.engadget.com/2004/10/19/how-to-make-your-own-photo-mosaics/
+
+Steps:
+- Create a large enough mosaic output, in the order of gigapixels (so that the individual images are discernible). This may be slightly tricky as most mosaic applications don't handle large files well. Which means you may have to split the images and re-composite after mosaic-ing them individually.
+- Use an awesome and free online service from Microsoft called Seadragon to convert the gigapixel mosaic into a smooth zoomable user-interface.
+- Embed the Seadragon code in your own webpage.
+
+- You're done.
